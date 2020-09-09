@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git@github.com:Tnesh97/hello-react.git/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/git@github.com:Tnesh97/hello-react.git/static/js/main.595d912f.chunk.js",
-    "main.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/main.595d912f.chunk.js.map",
-    "runtime-main.js": "/git@github.com:Tnesh97/hello-react.git/static/js/runtime-main.2fdc265d.js",
-    "runtime-main.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/runtime-main.2fdc265d.js.map",
-    "static/js/2.421509d8.chunk.js": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js",
-    "static/js/2.421509d8.chunk.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js.map",
-    "index.html": "/git@github.com:Tnesh97/hello-react.git/index.html",
-    "precache-manifest.a01c9efc99f08de4110c1ca64286cd36.js": "/git@github.com:Tnesh97/hello-react.git/precache-manifest.a01c9efc99f08de4110c1ca64286cd36.js",
-    "service-worker.js": "/git@github.com:Tnesh97/hello-react.git/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/git@github.com:Tnesh97/hello-react.git/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.421509d8.chunk.js.LICENSE.txt": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js.LICENSE.txt",
-    "static/media/messi.jpg": "/git@github.com:Tnesh97/hello-react.git/static/media/messi.b0a09f0b.jpg"
+    "main.css": "/hello-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hello-react/static/js/main.33e45b45.chunk.js",
+    "main.js.map": "/hello-react/static/js/main.33e45b45.chunk.js.map",
+    "runtime-main.js": "/hello-react/static/js/runtime-main.1dbbaa17.js",
+    "runtime-main.js.map": "/hello-react/static/js/runtime-main.1dbbaa17.js.map",
+    "static/js/2.421509d8.chunk.js": "/hello-react/static/js/2.421509d8.chunk.js",
+    "static/js/2.421509d8.chunk.js.map": "/hello-react/static/js/2.421509d8.chunk.js.map",
+    "index.html": "/hello-react/index.html",
+    "precache-manifest.e749f3b75429e35c50efd9823732f028.js": "/hello-react/precache-manifest.e749f3b75429e35c50efd9823732f028.js",
+    "service-worker.js": "/hello-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hello-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.421509d8.chunk.js.LICENSE.txt": "/hello-react/static/js/2.421509d8.chunk.js.LICENSE.txt",
+    "static/media/messi.jpg": "/hello-react/static/media/messi.b0a09f0b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2fdc265d.js",
+    "static/js/runtime-main.1dbbaa17.js",
     "static/js/2.421509d8.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.595d912f.chunk.js"
+    "static/js/main.33e45b45.chunk.js"
   ]
 }
