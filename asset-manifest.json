@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Tnesh97/hello-react.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/git@github.com:Tnesh97/hello-react.git/static/js/main.595d912f.chunk.js",
+    "main.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/main.595d912f.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Tnesh97/hello-react.git/static/js/runtime-main.2fdc265d.js",
+    "runtime-main.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/runtime-main.2fdc265d.js.map",
+    "static/js/2.421509d8.chunk.js": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js",
+    "static/js/2.421509d8.chunk.js.map": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js.map",
+    "index.html": "/git@github.com:Tnesh97/hello-react.git/index.html",
+    "precache-manifest.a01c9efc99f08de4110c1ca64286cd36.js": "/git@github.com:Tnesh97/hello-react.git/precache-manifest.a01c9efc99f08de4110c1ca64286cd36.js",
+    "service-worker.js": "/git@github.com:Tnesh97/hello-react.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/git@github.com:Tnesh97/hello-react.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.421509d8.chunk.js.LICENSE.txt": "/git@github.com:Tnesh97/hello-react.git/static/js/2.421509d8.chunk.js.LICENSE.txt",
+    "static/media/messi.jpg": "/git@github.com:Tnesh97/hello-react.git/static/media/messi.b0a09f0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fdc265d.js",
+    "static/js/2.421509d8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.595d912f.chunk.js"
+  ]
+}
